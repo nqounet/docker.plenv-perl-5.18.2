@@ -2,12 +2,12 @@
 
 This image is based on based [nqounet/plenv](https://hub.docker.com/r/nqounet/plenv/).
 
-This image is available as a trusted build in Docker Hub.
+This image is available as a trusted build in [Docker Hub](https://hub.docker.com/r/nqounet/docker.plenv-perl-5.18.2/).
 
 ## USAGE
 
 ```
-$ docker run --rm nqounet/plenv-perl-5.18.2 plenv exec perl -v
+$ docker run nqounet/docker.plenv-perl-5.18.2 plenv exec perl -V
 ```
 
 ## SEE ALSO
